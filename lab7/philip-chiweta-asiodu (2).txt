@@ -1,0 +1,4 @@
+1. What are some methods for organizing website content prior to development? Show me an example from the lab
+2. Explain the best method for getting files from your computer to github and why.
+3. Consider the User Story Map – Explain how you would work with a user at this stage of design to improve the design.
+
